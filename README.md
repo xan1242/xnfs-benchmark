@@ -13,7 +13,7 @@ Planned support for other games
 Place the .asi and .ini file in the scripts folder and run the game (preferably with a console enabled).
 The game itself should be able to report the results through its dialog boxes, but you can get same information through the console window.
 
-If you want to bring back the game to normal, you need to remove the plugin from the game.
+If you want to bring back the game to normal, you either need to remove the plugin from the game or set "bEnabled" in the ini to 0.
 
 # Accuracy
 The accuracy *is* debatable, currently it's relying on killing as much as RNG as possible to get reproducible results, but this isn't properly implemented yet.
