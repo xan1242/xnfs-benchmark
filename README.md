@@ -25,5 +25,5 @@ Framerate/frametime counting code can be implemented a bit better as well, this 
 You should be able to download the files necessary in the Releases tab.
 
 # Credits
-ThirteenAG - for the injector and inireader.
-EA Black Box - the game code itself
+- ThirteenAG - for the injector and inireader.
+- EA Black Box - the game code itself
